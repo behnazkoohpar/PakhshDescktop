@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/05/12 22:06:10.000.885,=C:\Users\Farzam\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/05/12 22:06:24.000.997,C:\Users\Farzam\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Farzam\Documents\Embarcadero\Studio\Projects\Pakhsh.dproj</Transaction>
+    <Transaction>2018/05/12 22:34:52.000.597,C:\Users\Farzam\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Farzam\Desktop\PakhshDesktop\untMain.pas</Transaction>
+    <Transaction>2018/05/12 22:34:52.000.597,C:\Users\Farzam\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Farzam\Desktop\PakhshDesktop\untMain.dfm</Transaction>
+    <Transaction>2018/05/12 22:34:56.000.177,C:\Users\Farzam\Documents\Embarcadero\Studio\Projects\Pakhsh.dproj=C:\Users\Farzam\Desktop\PakhshDesktop\Pakhsh.dproj</Transaction>
+    <Transaction>2018/05/12 22:47:22.000.667,=C:\Users\Farzam\Desktop\PakhshDesktop\Unit1.pas</Transaction>
+    <Transaction>2018/05/12 22:55:38.000.011,C:\Users\Farzam\Desktop\PakhshDesktop\Unit1.dfm=C:\Users\Farzam\Desktop\PakhshDesktop\uniLogin.dfm</Transaction>
+    <Transaction>2018/05/12 22:55:38.000.011,C:\Users\Farzam\Desktop\PakhshDesktop\Unit1.pas=C:\Users\Farzam\Desktop\PakhshDesktop\uniLogin.pas</Transaction>
+    <Transaction>2018/05/12 23:52:05.000.291,=C:\Users\Farzam\Desktop\PakhshDesktop\Unit1.pas</Transaction>
+    <Transaction>2018/05/13 00:02:02.000.440,C:\Users\Farzam\Desktop\PakhshDesktop\Unit1.pas=C:\Users\Farzam\Desktop\PakhshDesktop\untStuff.pas</Transaction>
+    <Transaction>2018/05/13 00:02:02.000.440,C:\Users\Farzam\Desktop\PakhshDesktop\Unit1.dfm=C:\Users\Farzam\Desktop\PakhshDesktop\untStuff.dfm</Transaction>
+    <Transaction>2018/05/13 02:04:16.000.735,=C:\Users\Farzam\Desktop\PakhshDesktop\Unit2.pas</Transaction>
+    <Transaction>2018/05/13 02:08:42.000.990,C:\Users\Farzam\Desktop\PakhshDesktop\untUnit.pas=C:\Users\Farzam\Desktop\PakhshDesktop\Unit2.pas</Transaction>
+    <Transaction>2018/05/13 02:08:42.000.990,C:\Users\Farzam\Desktop\PakhshDesktop\untUnit.dfm=C:\Users\Farzam\Desktop\PakhshDesktop\Unit2.dfm</Transaction>
+    <Transaction>2018/05/13 02:12:30.000.318,=C:\Users\Farzam\Desktop\PakhshDesktop\Unit2.pas</Transaction>
+    <Transaction>2018/05/13 02:15:13.000.730,C:\Users\Farzam\Desktop\PakhshDesktop\untStuffCategory.dfm=C:\Users\Farzam\Desktop\PakhshDesktop\Unit2.dfm</Transaction>
+    <Transaction>2018/05/13 02:15:13.000.730,C:\Users\Farzam\Desktop\PakhshDesktop\untStuffCategory.pas=C:\Users\Farzam\Desktop\PakhshDesktop\Unit2.pas</Transaction>
+    <Transaction>2018/05/13 02:21:46.000.727,=C:\Users\Farzam\Desktop\PakhshDesktop\Unit3.pas</Transaction>
+    <Transaction>2018/05/13 02:22:43.000.298,C:\Users\Farzam\Desktop\PakhshDesktop\untStuffBrand.dfm=C:\Users\Farzam\Desktop\PakhshDesktop\Unit3.dfm</Transaction>
+    <Transaction>2018/05/13 02:22:43.000.298,C:\Users\Farzam\Desktop\PakhshDesktop\untStuffBrand.pas=C:\Users\Farzam\Desktop\PakhshDesktop\Unit3.pas</Transaction>
+    <Transaction>2018/05/13 10:00:19.000.738,=C:\Users\Farzam\Desktop\PakhshDesktop\Unit4.pas</Transaction>
+    <Transaction>2018/05/13 10:00:47.000.751,C:\Users\Farzam\Desktop\PakhshDesktop\untStuffBrandPrice.pas=C:\Users\Farzam\Desktop\PakhshDesktop\Unit4.pas</Transaction>
+    <Transaction>2018/05/13 10:00:47.000.751,C:\Users\Farzam\Desktop\PakhshDesktop\untStuffBrandPrice.dfm=C:\Users\Farzam\Desktop\PakhshDesktop\Unit4.dfm</Transaction>
+    <Transaction>2018/05/13 10:25:49.000.184,=C:\Users\Farzam\Desktop\PakhshDesktop\Unit5.pas</Transaction>
+    <Transaction>2018/05/13 10:26:41.000.173,C:\Users\Farzam\Desktop\PakhshDesktop\untBannerApp.pas=C:\Users\Farzam\Desktop\PakhshDesktop\Unit5.pas</Transaction>
+    <Transaction>2018/05/13 10:26:41.000.173,C:\Users\Farzam\Desktop\PakhshDesktop\untBannerApp.dfm=C:\Users\Farzam\Desktop\PakhshDesktop\Unit5.dfm</Transaction>
+    <Transaction>2018/05/13 10:40:02.000.315,=C:\Users\Farzam\Desktop\PakhshDesktop\Unit6.pas</Transaction>
+    <Transaction>2018/05/13 10:50:00.000.076,C:\Users\Farzam\Desktop\PakhshDesktop\untBrand.dfm=C:\Users\Farzam\Desktop\PakhshDesktop\Unit6.dfm</Transaction>
+    <Transaction>2018/05/13 10:50:00.000.076,C:\Users\Farzam\Desktop\PakhshDesktop\untBrand.pas=C:\Users\Farzam\Desktop\PakhshDesktop\Unit6.pas</Transaction>
+    <Transaction>2018/05/13 12:30:38.000.746,=C:\Users\Farzam\Desktop\PakhshDesktop\Unit1.pas</Transaction>
+    <Transaction>2018/05/13 12:33:07.000.424,C:\Users\Farzam\Desktop\PakhshDesktop\Unit1.pas=C:\Users\Farzam\Desktop\PakhshDesktop\untMainStuffCategory.pas</Transaction>
+    <Transaction>2018/05/13 12:33:07.000.424,C:\Users\Farzam\Desktop\PakhshDesktop\Unit1.dfm=C:\Users\Farzam\Desktop\PakhshDesktop\untMainStuffCategory.dfm</Transaction>
+    <Transaction>2018/05/13 12:51:02.000.299,=C:\Users\Farzam\Desktop\PakhshDesktop\Unit1.pas</Transaction>
+    <Transaction>2018/05/13 12:51:43.000.195,C:\Users\Farzam\Desktop\PakhshDesktop\Unit1.pas=C:\Users\Farzam\Desktop\PakhshDesktop\untDmPakhsh.pas</Transaction>
+    <Transaction>2018/05/13 12:51:43.000.195,C:\Users\Farzam\Desktop\PakhshDesktop\Unit1.dfm=C:\Users\Farzam\Desktop\PakhshDesktop\untDmPakhsh.dfm</Transaction>
+    <Transaction>2018/05/13 13:09:02.000.607,=C:\Users\Farzam\Desktop\PakhshDesktop\Unit1.pas</Transaction>
+    <Transaction>2018/05/13 13:16:14.000.078,C:\Users\Farzam\Desktop\PakhshDesktop\Unit1.pas=C:\Users\Farzam\Desktop\PakhshDesktop\UntDBConnection.pas</Transaction>
+    <Transaction>2018/05/13 13:16:14.000.078,C:\Users\Farzam\Desktop\PakhshDesktop\Unit1.dfm=C:\Users\Farzam\Desktop\PakhshDesktop\UntDBConnection.dfm</Transaction>
+    <Transaction>2018/05/15 23:57:46.000.758,=D:\02 Other Project\PakhshDesktop\Unit1.pas</Transaction>
+    <Transaction>2018/05/16 00:03:10.000.156,D:\02 Other Project\PakhshDesktop\Unit1.pas=D:\02 Other Project\PakhshDesktop\untCustommer.pas</Transaction>
+    <Transaction>2018/05/16 00:03:10.000.156,D:\02 Other Project\PakhshDesktop\Unit1.dfm=D:\02 Other Project\PakhshDesktop\untCustommer.dfm</Transaction>
+    <Transaction>2018/05/17 02:53:50.000.119,=D:\02 Other Project\PakhshDesktop\Unit1.pas</Transaction>
+    <Transaction>2018/05/17 02:55:55.000.357,D:\02 Other Project\PakhshDesktop\untRequest.pas=D:\02 Other Project\PakhshDesktop\Unit1.pas</Transaction>
+    <Transaction>2018/05/17 02:55:55.000.357,D:\02 Other Project\PakhshDesktop\untRequest.dfm=D:\02 Other Project\PakhshDesktop\Unit1.dfm</Transaction>
+    <Transaction>2018/07/05 23:50:47.000.377,=D:\02 Other Project\PakhshDesktop\Unit1.pas</Transaction>
+    <Transaction>2018/07/05 23:54:12.000.900,D:\02 Other Project\PakhshDesktop\Unit1.pas=D:\02 Other Project\PakhshDesktop\untSetting.pas</Transaction>
+    <Transaction>2018/07/05 23:54:12.000.900,D:\02 Other Project\PakhshDesktop\Unit1.dfm=D:\02 Other Project\PakhshDesktop\untSetting.dfm</Transaction>
+    <Transaction>2018/07/06 15:50:12.000.724,=D:\02 Other Project\PakhshDesktop\Unit1.pas</Transaction>
+    <Transaction>2018/07/06 16:20:41.000.575,D:\02 Other Project\PakhshDesktop\untSendStuff.dfm=D:\02 Other Project\PakhshDesktop\Unit1.dfm</Transaction>
+    <Transaction>2018/07/06 16:20:41.000.575,D:\02 Other Project\PakhshDesktop\untSendStuff.pas=D:\02 Other Project\PakhshDesktop\Unit1.pas</Transaction>
+    <Transaction>2018/08/17 19:13:58.000.209,=D:\02 Other Project\PakhshDesktop\Unit1.pas</Transaction>
+    <Transaction>2018/08/17 19:27:37.000.253,D:\02 Other Project\PakhshDesktop\Unit1.pas=D:\02 Other Project\PakhshDesktop\untReceipt.pas</Transaction>
+    <Transaction>2018/08/17 19:27:37.000.253,D:\02 Other Project\PakhshDesktop\Unit1.dfm=D:\02 Other Project\PakhshDesktop\untReceipt.dfm</Transaction>
+    <Transaction>2018/09/20 14:50:58.000.932,=D:\02 Other Project\PakhshDesktop\Unit1.pas</Transaction>
+    <Transaction>2018/09/20 14:52:20.000.632,D:\02 Other Project\PakhshDesktop\untReceiptItem.dfm=D:\02 Other Project\PakhshDesktop\Unit1.dfm</Transaction>
+    <Transaction>2018/09/20 14:52:20.000.632,D:\02 Other Project\PakhshDesktop\untReceiptItem.pas=D:\02 Other Project\PakhshDesktop\Unit1.pas</Transaction>
+    <Transaction>2018/09/25 16:26:51.000.897,=D:\02 Other Project\PakhshDesktop\Unit1.pas</Transaction>
+    <Transaction>2018/09/25 16:28:24.000.775,D:\02 Other Project\PakhshDesktop\untRpStuffBrand.dfm=D:\02 Other Project\PakhshDesktop\Unit1.dfm</Transaction>
+    <Transaction>2018/09/25 16:28:24.000.775,D:\02 Other Project\PakhshDesktop\untRpStuffBrand.pas=D:\02 Other Project\PakhshDesktop\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
